@@ -1,0 +1,4 @@
+---- ROBOT_MOTOR_ENABLE Matches (3 in 2 files) ----
+Robot_Command.h (hardware\robot):#define	ROBOT_MOTOR_ENABLE		0
+Robot_State.c (hardware\robot):	else if(Robot_Command_Out(ROBOT_MOTOR_ENABLE))
+Robot_State.c (hardware\robot):	else if(Robot_Command_Out(ROBOT_MOTOR_ENABLE) == OFF)
